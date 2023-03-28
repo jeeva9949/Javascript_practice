@@ -1,0 +1,7 @@
+ first create a xmlhttprequest()
+ let variable = new XMLHttpRequest()
+next command to create reqest by using open()/
+ open() is has five paramenters 
+
+open (method ,url,async,username,password)
+send ()  to send the data to required once
